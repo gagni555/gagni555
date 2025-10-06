@@ -11,7 +11,7 @@
 
 - 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni)
 
-- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...).**
+- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...though it means I understand the process from documents creation until product functionality & launch).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
