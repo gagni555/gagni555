@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
-<h3 align="center">A university student that "vibe codes" with R&B music in the background for fun!</h3>
+<h3 align="center">A university student that context engineers (🤓) with R&B music in the background for fun!</h3>
 
 - 🔭 I’m currently working on **private machine learning & automation programs for my personal tech env**
 
