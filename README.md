@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
 <h3 align="center">A university student that "vibe codes" with R&B music in the background for fun!</h3>
 
-- 🔭 I’m currently working on **related machine learning & automation programs for my personal tech env**
+- 🔭 I’m currently working on **private machine learning & automation programs for my personal tech env**
 
 - 🌱 I’m currently taking a dual-degree in **Data Science & Business Administration**
 
