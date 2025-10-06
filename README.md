@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
-<h3 align="center">A expert context engineer that understands security, authentication, and software maintenance.</h3>
+<h3 align="center">An expert context engineer that understands security, authentication, and software maintenance.</h3>
 
 - 🔭 I’m currently working on **related machine learning & automation programs for my personal tech env**
 
