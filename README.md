@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
-<h3 align="center">An expert context engineer that understands security, authentication, and software maintenance.</h3>
+<h3 align="center">A university student that "vibe codes" with R&B music in the background for fun!</h3>
 
 - 🔭 I’m currently working on **related machine learning & automation programs for my personal tech env**
 
-- 🌱 I’m currently learning **Data Science & Business Administration**
+- 🌱 I’m currently taking a dual-degree in **Data Science & Business Administration**
 
 - 💬 Ask me about **my standard documentation and prompting practices**
 
 - 📫 How to reach me **dwightgagni@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni)
+- 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni)
 
-- ⚡ Fun fact **I have experience creating startups from scratch.**
+- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out well).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
