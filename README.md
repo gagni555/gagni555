@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
 <h3 align="center">A university student that context engineers (🤓) with R&B music in the background for fun!</h3>
 
-- 🔭 I’m currently working on **private machine learning & automation programs for my personal tech env**
+- 🔭 I’m currently working on **private machine learning & automation repositories for my personal portfolio in future applications
 
-- 🌱 I’m currently taking a dual-degree in **Data Science & Business Administration**
+- 🌱 I’m currently taking a Bachelor dual-degree in **Data Science & Business Administration**
 
 - 💬 Ask me about **my standard documentation and prompting practices**
 
