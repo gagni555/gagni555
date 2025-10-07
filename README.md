@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently taking a Bachelor dual-degree in **Data Science & Business Administration**
 
-- 💬 Ask me about **my standard documentation and prompting practices**
+- 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Claude, and Ollama**
 
 - 📫 How to reach me **dwightgagni@gmail.com**
 
