@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **private machine learning & automation** repositories for my personal portfolio in future applications
 
-- 🌱 I’m currently taking a freshman in a dual-degree in **Data Science & Business Administration**
+- 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**
 
 - 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Claude, and Ollama**
 
