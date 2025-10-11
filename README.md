@@ -13,7 +13,7 @@
 
 - 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni).
 
-- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...though it means I understand the end-to-end process of product development, from documentation to launch.)**.
+- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie and required signifcant startup capital...though it means I understand the end-to-end process of product development, from documentation to launch.)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
