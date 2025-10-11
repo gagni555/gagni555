@@ -6,10 +6,10 @@
 - 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**.
 
 - 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Webflow, Claude, and Ollama**.
+  
+- 🎧 I love listening to **The Weeknd, Drake, Summer Walker, Chase Atlantic, PARTYNEXTDOOR, and Bryson Tiller!**.
 
 - 📫 How to reach me **dwightgagni@gmail.com**.
-
-- 🎧 I love listening to **The Weeknd, Drake, Summer Walker, Chase Atlantic, PARTYNEXTDOOR, and Bryson Tiller!**.
 
 - 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni).
 
