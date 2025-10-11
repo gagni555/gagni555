@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **dwightgagni@gmail.com**.
 
+- 🎧 I love listening to **The Weeknd, Drake, Summer Walker, Chase Atlantic, PARTYNEXTDOOR, and Bryson Tiller!**.
+
 - 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni).
 
 - ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...though it means I understand the end-to-end process of product development, from documentation to launch.)**.
