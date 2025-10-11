@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**
 
-- 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Claude, and Ollama**
+- 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Webflow, Claude, and Ollama**
 
 - 📫 How to reach me **dwightgagni@gmail.com**
 
