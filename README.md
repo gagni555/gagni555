@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
 <h3 align="center">A university student that context engineers (🤓) with R&B music in the background for fun!</h3>
 
-- 🔭 I’m currently working on **private machine learning & automation repositories and possible software startups (benched)** for my personal portfolio in future applications
+- 🔭 I’m currently working on **private machine learning & automation repositories and possible software startups (benched)** for my personal portfolio in future applications in tech startups and existing tech giants.
 
-- 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**
+- 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**.
 
-- 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Webflow, Claude, and Ollama**
+- 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Webflow, Claude, and Ollama**.
 
-- 📫 How to reach me **dwightgagni@gmail.com**
+- 📫 How to reach me **dwightgagni@gmail.com**.
 
-- 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni)
+- 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni).
 
-- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...though it means I understand the end-to-end process of product development, from documentation to launch.).**
+- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie...though it means I understand the end-to-end process of product development, from documentation to launch.)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
