@@ -7,7 +7,7 @@
 
 - 💬 My tech stack includes **Cursor, Linear, Warp, Figma, Webflow, Claude, and Ollama**.
   
-- 🎧 I love listening to **The Weeknd, Drake, Summer Walker, Chase Atlantic, PARTYNEXTDOOR, and Bryson Tiller!**.
+- 🎧 I love listening to **The Weeknd, Drake, Summer Walker, Chase Atlantic, PARTYNEXTDOOR, and Bryson Tiller**.
 
 - 📫 How to reach me **dwightgagni@gmail.com**.
 
