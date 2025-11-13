@@ -13,8 +13,6 @@
 
 - 📄 Connect to me [www.linkedin.com/in/dwight-gagni](www.linkedin.com/in/dwight-gagni).
 
-- ⚡ Fun fact **I tried creating my own startup from scratch by bootstrapping (didn't work out because I realized I'm a brokie and required signifcant startup capital...though it means I understand the end-to-end process of product development, from documentation to launch.)**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dwightisgagni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dwightisgagni" height="30" width="40" /></a>
