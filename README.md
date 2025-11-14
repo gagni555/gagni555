@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
 <h3 align="center">A university student that context engineers (🤓) with R&B music in the background for fun!!!</h3>
 
-- 🔭 I’m currently working on **private machine learning, ai automation repositories, and possible software startups (benched)** for my personal portfolio in future applications in tech startups and existing tech giants.
+- 🔭 I’m currently working on **private ai automation repositories, and possible software startups (benched)** for my personal portfolio in future applications in tech startups and existing tech giants.
 
 - 🌱 I’m currently a freshman in a dual-degree in **Data Science & Business Administration**.
 
